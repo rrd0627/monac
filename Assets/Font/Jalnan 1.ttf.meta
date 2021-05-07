@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 6451533939ad96b4db9f96a9b6a7522f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Jalnan
+  fontNames:
+  - Jalnan
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 32b96a7f7b1128b4a920cf608c2378a0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
